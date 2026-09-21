@@ -1,0 +1,19 @@
+{
+  "name": "jobfinderportal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanpatel8982/JobFinderPortal.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amanpatel8982/JobFinderPortal/issues"
+  },
+  "homepage": "https://github.com/amanpatel8982/JobFinderPortal#readme"
+}
